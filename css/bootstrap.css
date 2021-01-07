@@ -1995,7 +1995,7 @@ pre code {
 
 @media (min-width:768px) {
     .container {
-        width: 750px
+        width: 750px;
     }
 }
 
@@ -2312,7 +2312,7 @@ pre code {
         float: left
     }
     .col-sm-12 {
-        width: 100%
+        width: 100%;
     }
     .col-sm-11 {
         width: 91.66666667%
