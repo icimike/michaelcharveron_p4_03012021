@@ -983,8 +983,12 @@ h4 {
         margin-left: 10px;
     }
     .bloc {
-        padding-left: 0;
-        padding-right: 0;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .bloc-contact {
+        padding: 5px;
     }
     .bloc-xxl,
     .bloc-xl,
